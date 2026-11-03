@@ -4,7 +4,7 @@
 def greet(name: str) -> str:
     """Return a greeting for name.
 
-    This sentance deliberately contains a speling mistake.
+    This sentence deliberately contains a spelling mistake.
     """
     return f"Hello, {name}!"
 
